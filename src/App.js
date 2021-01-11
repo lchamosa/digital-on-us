@@ -1,5 +1,4 @@
 import './App.css';
-
 function App() {
   function clickTop(){
     var img = document.getElementById("imgLogo");   
